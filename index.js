@@ -68,7 +68,7 @@ const questions = [
         type: 'list', 
         name: 'license',
         message: 'Choose a license for your application (required).',
-        choices: ['Apache License 2.0', 'GNU GPLv3', 'MIT', 'ISC', 'None']
+        choices: ['Apache License 2.0', 'GNU GPLv3', 'MIT', 'ISC', 'Unlicense', 'None']
     }, 
     {
         // contributing (contribution guidelines) 
