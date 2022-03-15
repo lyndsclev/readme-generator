@@ -1,11 +1,11 @@
 
 
+  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
   
-  
-  # testing
+  # README Generator
 
   ## Description
-  testing
+  This application provides a way to generate a README file for your project. It runs via node and leverages your responses in the command line. It was built using JavaScript and Node.js as well as inquirer.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -16,22 +16,22 @@
   * [Questions](#questions)
 
   ## Installation 
-  testing
+  To install and run this project you need to download the files from the repo https://github.com/lyndsclev/readme-generator. You'll also need to ensure you have initialized npm and downloaded inquirer.
 
   ## Usage
-  testing
+  To use the application, open the files in VSCode and open a terminal and type in "node index" and you will be prompted with the questions to generate your file.
 
   ## License 
-  This project is not licensed
+  This project is licensed under MIT. Please see https://opensource.org/licenses/MIT for more information.
 
   ## Contributing
-  testing
+  This application uses inquirer.
 
   ## Tests
-  testing
+  Not applicable.
 
   ## Questions 
-  * https://github.com/testing
-  * testing
-  * testing
+  * https://github.com/lyndsclev
+  * lyndsclev@gmail.com
+  * You can also reach me with questions via LinkedIn https://www.linkedin.com/in/lyndseyclevesy/. 
 
