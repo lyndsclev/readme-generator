@@ -7,6 +7,8 @@
   ## Description
   This application provides a way to generate a README file for your project. It runs via node and leverages your responses in the command line. It was built using JavaScript and Node.js as well as inquirer.
 
+  You can find a walkthrough video here: https://drive.google.com/file/d/1Nsk6_x8IIxAFuv3pILQsDVDFzHHdkJOH/view. 
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
